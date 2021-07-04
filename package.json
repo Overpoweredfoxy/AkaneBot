@@ -1,0 +1,19 @@
+{
+  "name": "akanebot",
+  "version": "1.0.0",
+  "description": "A discord dating bot",
+  "main": "Akane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Overpoweredfoxy/AkaneBot.git"
+  },
+  "author": "Overpoweredfoxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Overpoweredfoxy/AkaneBot/issues"
+  },
+  "homepage": "https://github.com/Overpoweredfoxy/AkaneBot#readme"
+}
