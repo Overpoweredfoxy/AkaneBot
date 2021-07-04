@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Overpoweredfoxy/AkaneBot/issues"
   },
-  "homepage": "https://github.com/Overpoweredfoxy/AkaneBot#readme"
+  "homepage": "https://github.com/Overpoweredfoxy/AkaneBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "quickmongo": "^3.0.2"
+  }
 }
