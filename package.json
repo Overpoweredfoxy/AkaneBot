@@ -19,6 +19,8 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "fs": "0.0.1-security",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.13.2",
     "quickmongo": "^3.0.2"
   }
 }
