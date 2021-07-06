@@ -1,2 +1,4 @@
 # AkaneBot
-A discord dating bot
+A discord profile bot
+
+My code is messy and inefficient af
